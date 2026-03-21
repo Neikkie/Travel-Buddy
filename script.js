@@ -12,6 +12,6 @@ form.addEventListener("submit", function (e) {
     return;
   }
 
-  message.textContent = `Thanks! ${email} has been added to Travel Buddy updates.`;
+  message.textContent = `Thanks! ${email} has been added to Split Voyage updates.`;
   form.reset();
 });
